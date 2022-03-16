@@ -27,7 +27,7 @@ public class ExploreObjects extends AppCompatActivity {
         String st;
         try {
             BufferedReader bufferedReader = new BufferedReader(new
-                    InputStreamReader(getAssets().open("data_file.txt")));
+                    InputStreamReader(getAssets().open("lablemap.txt")));
 
             while ((st = bufferedReader.readLine()) != null) {
                 String[] parts = st.split(":");
