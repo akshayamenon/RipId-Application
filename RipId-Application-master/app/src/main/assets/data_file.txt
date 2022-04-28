@@ -1,0 +1,4 @@
+keyboard:Input Device used to input alphabets, numbers & user commands
+tv:TV is a electronic device which shows different channels.
+mouse:Mouse is a pointing input device which is also used for giving user commands by using left right buttons.
+book:A Book helps to give informations such as topics related to study, learn, entertain, etc
